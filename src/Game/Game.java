@@ -27,6 +27,8 @@ public class Game {
 	
 	Scientist peter = new Scientist();
 	
+	Test agecolor = new Test();
+	
 	//constructeurs -> fonction appelée lors de l'instanction d'objet de la classe
 	
 	public void display() {
@@ -38,6 +40,6 @@ public class Game {
 		
 		System.out.println(joy);
 		
-		System.out.println(peter);
+		System.out.println(agecolor);
 	}
 }
