@@ -8,6 +8,8 @@ public class Main {
 		// j'instancie l'objet Game, nommé game, pour construire l'objet en question et utiliser ses valeurs, méthodes, etc.
 		// Pourquoi le game ? -> car quand on veut jouer à un jeu, on lance le jeu donc on débute par le game
 		game.display();
+		
+		System.out.println("Hello");
 	}
 
 }
