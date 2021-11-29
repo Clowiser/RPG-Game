@@ -40,8 +40,6 @@ public class Game {
 		
 		System.out.println(joy);
 		
-		System.out.println(peter);
-		
 		System.out.println(agecolor);
 	}
 }
